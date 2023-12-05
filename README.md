@@ -10,7 +10,8 @@ N/A
 
 ## Usage
 
-After downloading the repo, the index.html file can be opened in a browser.
+The website can be accessed at https://mmdpx.github.io/Horiseon-Code-Refactor/
+Alternatively, after downloading the repo, the index.html file can be opened in a browser.
 
 ## Credits
 
